@@ -1,17 +1,18 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Somnath Prasad</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nikhil Falke</h1>
 
 <h1 align="center"><img src="https://c.tenor.com/-khideobVBgAAAAi/earth-wind.gif" height="40"/>NEWS FLASH: Check out my best app yet!!! <a href="https://desolate-beach-76075.herokuapp.com/">Typing Race</a><img src="https://c.tenor.com/-khideobVBgAAAAi/earth-wind.gif" height="40"/></h1>
 
 <!-- - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on any web development project
-- [![Gmail Badge](https://img.shields.io/badge/-somnathprasad559@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:somnathprasad@gmail.com)](mailto:somnathprasad@gmail.com) -->
+- [![Gmail Badge](https://img.shields.io/badge/-nikhilfalke11@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikhilfalke10@gmail.com)](mailto:nikhilfalke10@gmail.com) -->
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=F7DE14&center=true&vCenter=true&width=500&lines=Hey%2C+I+can+read+your+mind;You+love+programming!"/>
 <div/>
   
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" /> <img src="https://forthebadge.com/images/badges/check-it-out.svg" />
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" /> 
+ <img src="https://forthebadge.com/images/badges/check-it-out.svg" />
 <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" />
 <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
 
@@ -19,28 +20,23 @@
  ![](https://img.shields.io/badge/JavaScript-Logic-informational?style=flat&logo=<>&logoColor=white&color=purple)
 ![](https://img.shields.io/badge/HTML-DOM-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CSS-Style-informational?style=flat&logo=<>&logoColor=white&color=red)
-![](https://img.shields.io/badge/Markdown-LightWeight-informational?style=flat&logo=<>&logoColor=white&color=yellow)![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=somnathPrasad)
+![](https://img.shields.io/badge/Markdown-LightWeight-informational?style=flat&logo=<>&logoColor=white&color=yellow)![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Nikhil-2002)
 
 ## Check out my ⚡Streaks⚡ and Stats: 📊 
-[![Somnath's GitHub stats](https://github-readme-stats.vercel.app/api?username=somnathPrasad&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=somnathprasad&show_icons=true&locale=en&layout=compact" alt="somnathprasad" /></p>
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=somnathPrasad&)"> -->
-<img src="https://activity-graph.herokuapp.com/graph?username=somnathPrasad&bg_color=FFFFFF&color=000000&line=000000&point=00FF00">
+[![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-2002&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikhil-2002&show_icons=true&locale=en&layout=compact" alt="Nikhil-2002" /></p>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-2002&)"> -->
+<img src="https://activity-graph.herokuapp.com/graph?username=Nikhil-2002&bg_color=FFFFFF&color=000000&line=000000&point=00FF00">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=somnathPrasad&theme=blue-green&count_private=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nikhil-2002&theme=blue-green&count_private=true)](https://git.io/streak-stats)
 <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
 <p align="center">
-  <img src="https://github.com/somnathPrasad/somnathPrasad/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/Nikhil-2002/Nikhil-2002/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somnathprasad" alt="somnathprasad" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nikhil-2002" alt="Nikhil-2002" /></a> </p>
  -->
-### Some of my public repositories (not forks):
 
- **[Flash card app - somnathPrasad/flashcardlearn](https://github.com/somnathPrasad/flashcardlearn)**
-  <br/>
- **[My Profile Repo - somnathPrasad/somnathPrasad](https://github.com/somnathPrasad/somnathPrasad)**
-  
   
 ## 🚀 Languages and Tools
 <p align="center">
@@ -88,7 +84,7 @@
       
 ## 📢 Find me elsewhere 
 <p align="center">
-<a href="https://codepen.io/somnathprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="somnathprasad" height="30" width="40" /></a>
+<a href="https://codepen.io/Nikhil-2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="somnathprasad" height="30" width="40" /></a>
 <a href="https://twitter.com/somnathprasad17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="somnathprasad17" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/somnath-prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somnath-prasad" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13416960" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13416960" height="30" width="40" /></a>
